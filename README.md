@@ -7,3 +7,20 @@
 ```
 sudo python3 ciumpi-wifi.py [Wireless interface]
 ```
+<br>
+<h1>Dependencies</h1>
+<h3>Python</h3>
+
+```
+os
+time
+signal
+csv
+sys
+```
+
+<h3>Deb Packages</h3>
+
+```
+aircrack-ng
+```
